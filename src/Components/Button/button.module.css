@@ -1,0 +1,11 @@
+.btn{
+    padding: 5px 14px;
+    background-color: blue;
+    border-width: 0;
+    cursor: pointer;
+    color: white;
+    font-size: 12px;
+}
+.orange{
+    background-color: orange;
+}

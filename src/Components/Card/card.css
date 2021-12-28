@@ -1,0 +1,6 @@
+.card{
+    width: 150px;
+    height: 200px;
+    border: 1px solid salmon;
+    border-radius: 5px;
+}
